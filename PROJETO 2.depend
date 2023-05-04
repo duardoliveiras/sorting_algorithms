@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1632460335 source:/home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"bubblesort.h"
+	"selectionsort.h"
+	"insertionsort.h"
+	"shellsort.h"
+	"mergesort.h"
+	"heapsort.h"
+	"quicksort.h"
+	"countingsort.h"
+	"analisedetempo.h"
+
+1632363631 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/bubblesort.h
+
+1632254076 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/selectionsort.h
+
+1632256982 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/insertionsort.h
+
+1632256320 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/shellsort.h
+
+1632264043 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/mergesort.h
+
+1632269605 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/heapsort.h
+
+1632368286 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/quicksort.h
+
+1632459767 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/analisedetempo.h
+
+1632460318 /home/eduardo/Documentos/TRABALHO 2 ALGORITMOS/INICIO DO SONHO/PROJETO 2/countingsort.h
+
