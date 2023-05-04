@@ -1,63 +1,17 @@
-﻿8
+
 
 **UNIVERSIDADE FEDERAL DE MATO GROSSO**
 
 **ALGORITMOS E ESTRUTURA DE DADOS II**
 
-
-
-**EDUARDO OLIVEIRA SILVA**
-
-**MATHEO RODRIGUES BONUCIA**
-
-
-
-
-
-
-
-
-**ALGORITMOS DE ORDENAÇÃO**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Alunos: EDUARDO OLIVEIRA SILVA e MATHEO RODRIGUES BONUCIA**
 
 
 **CUIABÁ - MT**
 
 **2021**
 
-**EDUARDO OLIVEIRA SILVA**
-
-**MATHEO RODRIGUES BONUCIA**
-
-
-
-
-
-
-
-
-
-
-
-
-
 **ALGORITMOS DE ORDENAÇÃO**
-
-
-
 
 
 
@@ -66,14 +20,6 @@ Trabalho apresentado a disciplina de Algoritmos e Estrutura de Dados II da Unive
 Professor (a): Frederico Santos de Oliveira
 
 
-
-
-
-
-
-**CUIABÁ - MT**
-
-**2021**
 
 1. **INTRODUÇÃO**
 
@@ -194,21 +140,7 @@ O algoritmo *mergesort* fará uso de um método chamado Divisão e Conquista, on
 
 
 Figura 11 (Parte 1 Mergesort)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`                                                                         `Figura 12 (Parte 2 Mergesort)
+Figura 12 (Parte 2 Mergesort)
 
 
 
@@ -222,17 +154,16 @@ Este algoritmo utiliza do princípio da seleção que é o que constitui o *sele
 
 
 
-
-
-`                                                                                 `Figura 14 (Parte 2 Heapsort)
-
-
-
-
-
-
-
 Figura 13 (Parte 1 Heapsort)
+Figura 14 (Parte 2 Heapsort)
+
+
+
+
+
+
+
+
 
 
 
@@ -390,7 +321,7 @@ Durante o desenvolver do código, uma das principais dificuldade apresentadas fo
 
 
 
-1. ![](Aspose.Words.01b46035-ab24-414d-badf-7c9714f859d1.001.png)**REFERÊNCIAS BIBLIOGRÁFICAS**
+1. **REFERÊNCIAS BIBLIOGRÁFICAS**
 
 BACKES, A. **Linguagem C – Completa e Descomplicada**, 2ª Edição. São Paulo: GEN LTC, 2018.
 
