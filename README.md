@@ -11,4 +11,4 @@ O projeto avaliativo dois, consiste na criação de um algoritmo que possa desfr
 
 De modo geral, o algoritmo foi estruturado em oito bibliotecas, onde cada uma abriga a função referente a forma de ordenação respectiva e possui o arquivo *main* que é constituído de quatro bibliotecas, “stdio.h”, “stdlib.h”, “time.h” e “math.h”, bem como as oito bibliotecas de ordenação e outra responsável por realizar a contagem de movimentações e comparações nas formas *bubblesort, insertionsort e selectionsort*, denominada “analisedetempo.h”. Por fim, cada uma das funções e bibliotecas que formam o algoritmo completa serão descritas e explicadas ao desenvolver do projeto.
 
-**Documentação completa com a análise disponível na pasta `/doc`
+**Documentação completa com a análise disponível na pasta `/doc`**
